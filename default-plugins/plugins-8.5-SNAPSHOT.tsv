@@ -5,6 +5,7 @@ uk.ac.gate.plugins	cistem	1.0-SNAPSHOT
 uk.ac.gate.plugins	context	1.0-SNAPSHOT
 uk.ac.gate.plugins	copy-annots-between-docs	8.5-SNAPSHOT
 uk.ac.gate.plugins	coref-tools	8.5-SNAPSHOT
+uk.ac.gate.plugins	corpusstats	1.2-SNAPSHOT
 uk.ac.gate.plugins	crowd-sourcing	8.5-SNAPSHOT
 uk.ac.gate.plugins	developer-tools	8.5-SNAPSHOT
 uk.ac.gate.plugins	document-normalizer	8.5-SNAPSHOT
@@ -21,6 +22,7 @@ uk.ac.gate.plugins	groovy	8.5-SNAPSHOT
 uk.ac.gate.plugins	information-retrieval	8.5-SNAPSHOT
 uk.ac.gate.plugins	inter-annotator-agreement	8.5-SNAPSHOT
 uk.ac.gate.plugins	jape-plus	8.5-SNAPSHOT
+uk.ac.gate.plugins	java	0.4-SNAPSHOT
 uk.ac.gate.plugins	lang-arabic	8.5-SNAPSHOT
 uk.ac.gate.plugins	lang-bulgarian	8.5-SNAPSHOT
 uk.ac.gate.plugins	lang-cebuano	8.5-SNAPSHOT
@@ -34,6 +36,7 @@ uk.ac.gate.plugins	lang-welsh	8.5-SNAPSHOT
 uk.ac.gate.plugins	language-identification	8.5-SNAPSHOT
 uk.ac.gate.plugins	learningframework	4.0-SNAPSHOT
 uk.ac.gate.plugins	linguistic-simplifier	8.5-SNAPSHOT
+uk.ac.gate.plugins	modularpipelines	2.2-SNAPSHOT
 uk.ac.gate.plugins	opennlp	8.5-SNAPSHOT
 uk.ac.gate.plugins	schema-annotation-editor	8.5-SNAPSHOT
 uk.ac.gate.plugins	schema-tools	8.5-SNAPSHOT
