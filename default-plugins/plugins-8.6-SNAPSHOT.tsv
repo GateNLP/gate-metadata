@@ -1,5 +1,5 @@
 uk.ac.gate.plugins	alignment	8.5
-uk.ac.gate.plugins	annie	8.5
+uk.ac.gate.plugins	annie	8.6-SNAPSHOT
 uk.ac.gate.plugins	annotation-merging	8.5
 uk.ac.gate.plugins	cistem	1.0-SNAPSHOT
 uk.ac.gate.plugins	context	1.0-SNAPSHOT
@@ -41,7 +41,7 @@ uk.ac.gate.plugins	linguistic-simplifier	8.5
 uk.ac.gate.plugins	modularpipelines	2.2-SNAPSHOT
 uk.ac.gate.plugins	ontology-bdm-computation	8.5
 uk.ac.gate.plugins	ontology-tools	8.5
-uk.ac.gate.plugins	opennlp	8.5
+uk.ac.gate.plugins	opennlp	8.6-SNAPSHOT
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
 uk.ac.gate.plugins	stanford-corenlp	8.5
