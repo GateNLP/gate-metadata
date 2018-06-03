@@ -4,7 +4,7 @@ uk.ac.gate.plugins	annotation-merging	8.6-SNAPSHOT
 uk.ac.gate.plugins	cistem	1.0-SNAPSHOT
 uk.ac.gate.plugins	context	1.0-SNAPSHOT
 uk.ac.gate.plugins	copy-annots-between-docs	8.6-SNAPSHOT
-uk.ac.gate.plugins	coref-tools	8.5
+uk.ac.gate.plugins	coref-tools	8.6-SNAPSHOT
 uk.ac.gate.plugins	corpusstats	1.2-SNAPSHOT
 uk.ac.gate.plugins	crowd-sourcing	8.5
 uk.ac.gate.plugins	developer-tools	8.5
