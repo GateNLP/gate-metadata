@@ -7,7 +7,7 @@ uk.ac.gate.plugins	copy-annots-between-docs	8.6-SNAPSHOT
 uk.ac.gate.plugins	coref-tools	8.6-SNAPSHOT
 uk.ac.gate.plugins	corpusstats	1.2-SNAPSHOT
 uk.ac.gate.plugins	crowd-sourcing	8.6-SNAPSHOT
-uk.ac.gate.plugins	developer-tools	8.5
+uk.ac.gate.plugins	developer-tools	8.6-SNAPSHOT
 uk.ac.gate.plugins	document-normalizer	8.5
 uk.ac.gate.plugins	evaluation	0.8-SNAPSHOT
 uk.ac.gate.plugins	format-brat	1.0-SNAPSHOT
