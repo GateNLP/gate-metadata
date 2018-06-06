@@ -17,7 +17,7 @@ uk.ac.gate.plugins	format-fastinfoset	8.5
 uk.ac.gate.plugins	format-html5microdata	8.5
 uk.ac.gate.plugins	format-mediawiki	8.5
 uk.ac.gate.plugins	format-pubmed	8.5
-uk.ac.gate.plugins	format-twitter	8.5
+uk.ac.gate.plugins	format-twitter	8.6-SNAPSHOT
 uk.ac.gate.plugins	gazetteer-ontology-based	8.5
 uk.ac.gate.plugins	genia	8.5
 uk.ac.gate.plugins	groovy	8.5
@@ -35,7 +35,7 @@ uk.ac.gate.plugins	lang-italian	8.5
 uk.ac.gate.plugins	lang-romanian	8.5
 uk.ac.gate.plugins	lang-russian	8.5
 uk.ac.gate.plugins	lang-welsh	8.5
-uk.ac.gate.plugins	language-identification	8.5
+uk.ac.gate.plugins	language-identification	8.6-SNAPSHOT
 uk.ac.gate.plugins	learningframework	4.0-SNAPSHOT
 uk.ac.gate.plugins	linguistic-simplifier	8.5
 uk.ac.gate.plugins	modularpipelines	2.2-SNAPSHOT
@@ -44,7 +44,7 @@ uk.ac.gate.plugins	ontology-tools	8.5
 uk.ac.gate.plugins	opennlp	8.6-SNAPSHOT
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
-uk.ac.gate.plugins	stanford-corenlp	8.5
+uk.ac.gate.plugins	stanford-corenlp	8.6-SNAPSHOT
 uk.ac.gate.plugins	stemmer-snowball	8.5
 uk.ac.gate.plugins	stringannotation	4.0-SNAPSHOT
 uk.ac.gate.plugins	tagger-boilerpipe	8.5
@@ -61,4 +61,4 @@ uk.ac.gate.plugins	termraider	8.5
 uk.ac.gate.plugins	tools	8.6-SNAPSHOT
 uk.ac.gate.plugins	uima	8.5
 uk.ac.gate.plugins	wordnet	8.5
-uk.ac.gate.plugins	twitter	8.5
+uk.ac.gate.plugins	twitter	8.6-SNAPSHOT
