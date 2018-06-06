@@ -29,7 +29,7 @@ uk.ac.gate.plugins	lang-arabic	8.5
 uk.ac.gate.plugins	lang-bulgarian	8.5
 uk.ac.gate.plugins	lang-cebuano	8.5
 uk.ac.gate.plugins	lang-chinese	8.5
-uk.ac.gate.plugins	lang-danish	8.5
+uk.ac.gate.plugins	lang-danish	8.5.1
 uk.ac.gate.plugins	lang-hindi	8.5
 uk.ac.gate.plugins	lang-italian	8.5
 uk.ac.gate.plugins	lang-romanian	8.5
@@ -44,7 +44,7 @@ uk.ac.gate.plugins	ontology-tools	8.5
 uk.ac.gate.plugins	opennlp	8.5
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
-uk.ac.gate.plugins	stanford-corenlp	8.5
+uk.ac.gate.plugins	stanford-corenlp	8.5.1
 uk.ac.gate.plugins	stemmer-snowball	8.5
 uk.ac.gate.plugins	stringannotation	4.0
 uk.ac.gate.plugins	tagger-boilerpipe	8.5
@@ -59,6 +59,6 @@ uk.ac.gate.plugins	tagger-textrazor	8.5
 uk.ac.gate.plugins	teamware-tools	8.5
 uk.ac.gate.plugins	termraider	8.5
 uk.ac.gate.plugins	tools	8.5
+uk.ac.gate.plugins	twitter	8.5.1
 uk.ac.gate.plugins	uima	8.5
 uk.ac.gate.plugins	wordnet	8.5
-uk.ac.gate.plugins	twitter	8.5
