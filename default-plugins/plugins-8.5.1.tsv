@@ -18,6 +18,7 @@ uk.ac.gate.plugins	format-html5microdata	8.5
 uk.ac.gate.plugins	format-mediawiki	8.5
 uk.ac.gate.plugins	format-pubmed	8.5
 uk.ac.gate.plugins	format-twitter	8.5
+uk.ac.gate.plugins	gate-cloud-plugin	1.1
 uk.ac.gate.plugins	gazetteer-ontology-based	8.5
 uk.ac.gate.plugins	genia	8.5
 uk.ac.gate.plugins	groovy	8.5
