@@ -15,6 +15,7 @@ uk.ac.gate.plugins	format-csv	8.6-SNAPSHOT
 uk.ac.gate.plugins	format-datasift	8.6-SNAPSHOT
 uk.ac.gate.plugins	format-fastinfoset	8.5
 uk.ac.gate.plugins	format-html5microdata	8.5
+uk.ac.gate.plugins	format-json	8.6-SNAPSHOT
 uk.ac.gate.plugins	format-mediawiki	8.5
 uk.ac.gate.plugins	format-pubmed	8.5
 uk.ac.gate.plugins	format-twitter	8.6-SNAPSHOT
