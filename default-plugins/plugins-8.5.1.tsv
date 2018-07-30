@@ -10,6 +10,7 @@ uk.ac.gate.plugins	crowd-sourcing	8.5
 uk.ac.gate.plugins	developer-tools	8.5
 uk.ac.gate.plugins	document-normalizer	8.5
 uk.ac.gate.plugins	evaluation	0.8-alpha1
+uk.ac.gate.plugins	format-anafora	1.0-SNAPSHOT
 uk.ac.gate.plugins	format-brat	1.0-SNAPSHOT
 uk.ac.gate.plugins	format-csv	8.5
 uk.ac.gate.plugins	format-datasift	8.5
