@@ -26,7 +26,7 @@ uk.ac.gate.plugins	genia	8.5
 uk.ac.gate.plugins	groovy	8.5
 uk.ac.gate.plugins	information-retrieval	8.5
 uk.ac.gate.plugins	inter-annotator-agreement	8.5
-uk.ac.gate.plugins	jape-plus	8.5
+uk.ac.gate.plugins	jape-plus	8.6-SNAPSHOT
 uk.ac.gate.plugins	java	0.5-SNAPSHOT
 uk.ac.gate.plugins	lang-arabic	8.5
 uk.ac.gate.plugins	lang-bulgarian	8.5
