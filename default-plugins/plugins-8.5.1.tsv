@@ -50,7 +50,7 @@ uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
 uk.ac.gate.plugins	stanford-corenlp	8.5.1
 uk.ac.gate.plugins	stemmer-snowball	8.5
-uk.ac.gate.plugins	stringannotation	4.0
+uk.ac.gate.plugins	stringannotation	4.1
 uk.ac.gate.plugins	tagger-boilerpipe	8.5
 uk.ac.gate.plugins	tagger-chemistry	8.5
 uk.ac.gate.plugins	tagger-datenormalizer	8.5
