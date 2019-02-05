@@ -24,7 +24,7 @@ uk.ac.gate.plugins	format-twitter	8.6-SNAPSHOT
 uk.ac.gate.plugins	gate-cloud-plugin	1.1
 uk.ac.gate.plugins	gazetteer-ontology-based	8.5
 uk.ac.gate.plugins	genia	8.5
-uk.ac.gate.plugins	groovy	8.5
+uk.ac.gate.plugins	groovy	8.6-SNAPSHOT
 uk.ac.gate.plugins	information-retrieval	8.5
 uk.ac.gate.plugins	inter-annotator-agreement	8.5
 uk.ac.gate.plugins	jape-plus	8.6-SNAPSHOT
