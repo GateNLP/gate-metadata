@@ -5,7 +5,7 @@ uk.ac.gate.plugins	cistem	1.0-SNAPSHOT
 uk.ac.gate.plugins	context	1.0-SNAPSHOT
 uk.ac.gate.plugins	copy-annots-between-docs	8.5
 uk.ac.gate.plugins	coref-tools	8.5
-uk.ac.gate.plugins	corpusstats	1.2
+uk.ac.gate.plugins	corpusstats	1.3
 uk.ac.gate.plugins	crowd-sourcing	8.5
 uk.ac.gate.plugins	developer-tools	8.5
 uk.ac.gate.plugins	document-normalizer	8.5
