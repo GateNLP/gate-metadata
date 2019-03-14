@@ -50,6 +50,7 @@ uk.ac.gate.plugins	ontology-tools	8.5
 uk.ac.gate.plugins	opennlp	8.6-SNAPSHOT
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
+uk.ac.gate.plugins	sentiment	1.0-SNAPSHOT
 uk.ac.gate.plugins	stanford-corenlp	8.6-SNAPSHOT
 uk.ac.gate.plugins	stemmer-snowball	8.5
 uk.ac.gate.plugins	stringannotation	4.1
