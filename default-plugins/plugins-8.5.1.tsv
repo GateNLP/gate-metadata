@@ -41,7 +41,7 @@ uk.ac.gate.plugins	lang-romanian	8.5
 uk.ac.gate.plugins	lang-russian	8.5
 uk.ac.gate.plugins	lang-welsh	8.5
 uk.ac.gate.plugins	language-identification	8.5
-uk.ac.gate.plugins	learningframework	4.0-alpha1
+uk.ac.gate.plugins	learningframework	4.1.1
 uk.ac.gate.plugins	linguistic-simplifier	8.5
 uk.ac.gate.plugins	modularpipelines	2.2
 uk.ac.gate.plugins	ontology-bdm-computation	8.5
