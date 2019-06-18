@@ -1,7 +1,7 @@
-uk.ac.gate.plugins	alignment	8.6-SNAPSHOT
+uk.ac.gate.plugins	alignment	8.6
 uk.ac.gate.plugins	annie	8.6
 uk.ac.gate.plugins	annotation-merging	8.5
-uk.ac.gate.plugins	cistem	1.0-SNAPSHOT
+uk.ac.gate.plugins	cistem	1.0
 uk.ac.gate.plugins	context	1.0
 uk.ac.gate.plugins	copy-annots-between-docs	8.5
 uk.ac.gate.plugins	coref-tools	8.5
@@ -10,9 +10,9 @@ uk.ac.gate.plugins	crowd-sourcing	8.5
 uk.ac.gate.plugins	developer-tools	8.5
 uk.ac.gate.plugins	document-normalizer	8.5
 uk.ac.gate.plugins	evaluation	0.9
-uk.ac.gate.plugins	format-alto	1.0-SNAPSHOT
-uk.ac.gate.plugins	format-anafora	1.0-SNAPSHOT
-uk.ac.gate.plugins	format-brat	1.0-SNAPSHOT
+uk.ac.gate.plugins	format-alto	1.0
+uk.ac.gate.plugins	format-anafora	1.0
+uk.ac.gate.plugins	format-brat	1.0
 uk.ac.gate.plugins	format-csv	8.6
 uk.ac.gate.plugins	format-datasift	8.5
 uk.ac.gate.plugins	format-fastinfoset	8.5
@@ -50,7 +50,7 @@ uk.ac.gate.plugins	ontology-tools	8.5
 uk.ac.gate.plugins	opennlp	8.5
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
-uk.ac.gate.plugins	sentiment	1.0-SNAPSHOT
+uk.ac.gate.plugins	sentiment	1.0
 uk.ac.gate.plugins	stanford-corenlp	8.5.1
 uk.ac.gate.plugins	stemmer-snowball	8.5
 uk.ac.gate.plugins	stringannotation	4.1
