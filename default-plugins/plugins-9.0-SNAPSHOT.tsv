@@ -14,7 +14,7 @@ uk.ac.gate.plugins	format-alto	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-anafora	1.0
 uk.ac.gate.plugins	format-bdoc	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-brat	1.0
-uk.ac.gate.plugins	format-csv	8.6
+uk.ac.gate.plugins	format-csv	8.7-SNAPSHOT
 uk.ac.gate.plugins	format-datasift	8.5
 uk.ac.gate.plugins	format-fastinfoset	8.5
 uk.ac.gate.plugins	format-html5microdata	8.5
