@@ -12,7 +12,7 @@ uk.ac.gate.plugins	document-normalizer	8.5
 uk.ac.gate.plugins	evaluation	0.9
 uk.ac.gate.plugins	format-alto	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-anafora	1.0
-uk.ac.gate.plugins	format-bdoc	1.5-SNAPSHOT
+uk.ac.gate.plugins	format-bdoc	1.6-SNAPSHOT
 uk.ac.gate.plugins	format-brat	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-csv	8.7-SNAPSHOT
 uk.ac.gate.plugins	format-datasift	8.5
@@ -49,7 +49,7 @@ uk.ac.gate.plugins	modularpipelines	2.3
 uk.ac.gate.plugins	ontology-bdm-computation	8.5
 uk.ac.gate.plugins	ontology-tools	8.5
 uk.ac.gate.plugins	opennlp	8.5
-uk.ac.gate.plugins	python	2.2-SNAPSHOT
+uk.ac.gate.plugins	python	2.3-SNAPSHOT
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
 uk.ac.gate.plugins	sentiment	1.0
