@@ -12,7 +12,7 @@ uk.ac.gate.plugins	document-normalizer	8.5
 uk.ac.gate.plugins	evaluation	0.9
 uk.ac.gate.plugins	format-alto	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-anafora	1.0
-uk.ac.gate.plugins	format-bdoc	1.6.1
+uk.ac.gate.plugins	format-bdoc	1.7
 uk.ac.gate.plugins	format-brat	1.1-SNAPSHOT
 uk.ac.gate.plugins	format-csv	8.7-SNAPSHOT
 uk.ac.gate.plugins	format-datasift	8.5
