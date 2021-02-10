@@ -13,7 +13,7 @@ uk.ac.gate.plugins	evaluation	0.9
 uk.ac.gate.plugins	format-alto	1.0
 uk.ac.gate.plugins	format-anafora	1.0
 uk.ac.gate.plugins	format-bdoc	1.10
-uk.ac.gate.plugins	format-brat	1.0
+uk.ac.gate.plugins	format-brat	1.1
 uk.ac.gate.plugins	format-csv	8.7
 uk.ac.gate.plugins	format-datasift	8.5
 uk.ac.gate.plugins	format-fastinfoset	8.5
