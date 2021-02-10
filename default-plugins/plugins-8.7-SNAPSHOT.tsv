@@ -18,10 +18,10 @@ uk.ac.gate.plugins	format-csv	8.7
 uk.ac.gate.plugins	format-datasift	8.5
 uk.ac.gate.plugins	format-fastinfoset	8.5
 uk.ac.gate.plugins	format-html5microdata	8.5
-uk.ac.gate.plugins	format-json	8.7
+uk.ac.gate.plugins	format-json	8.8
 uk.ac.gate.plugins	format-mediawiki	8.5
 uk.ac.gate.plugins	format-pubmed	8.5
-uk.ac.gate.plugins	format-twitter	8.8-SNAPSHOT
+uk.ac.gate.plugins	format-twitter	8.8
 uk.ac.gate.plugins	gate-cloud-plugin	1.1
 uk.ac.gate.plugins	gazetteer-ontology-based	8.5
 uk.ac.gate.plugins	genia	8.5
