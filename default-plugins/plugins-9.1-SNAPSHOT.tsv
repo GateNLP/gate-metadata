@@ -49,7 +49,7 @@ uk.ac.gate.plugins	modularpipelines	2.3
 uk.ac.gate.plugins	ontology-bdm-computation	8.5
 uk.ac.gate.plugins	ontology-tools	8.6-SNAPSHOT
 uk.ac.gate.plugins	opennlp	8.5
-uk.ac.gate.plugins	python	3.0.6-SNAPSHOT
+uk.ac.gate.plugins	python	3.0.5
 uk.ac.gate.plugins	schema-annotation-editor	8.5
 uk.ac.gate.plugins	schema-tools	8.5
 uk.ac.gate.plugins	sentiment	1.0
