@@ -406,6 +406,8 @@
         "Token string"
       ],
       "extra": [
+        "Token string (kind)",
+        "URL",
         "Hashtag tokenized",
         "UserID user",
         "Emoticon normalized"
@@ -423,6 +425,7 @@
         "Token string (category)"
       ],
       "extra": [
+        "URL",
         "Hashtag tokenized",
         "UserID user",
         "Emoticon normalized"
