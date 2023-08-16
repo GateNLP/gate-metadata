@@ -41,6 +41,7 @@ uk.ac.gate.plugins	lang-italian	8.6
 uk.ac.gate.plugins	lang-romanian	8.6
 uk.ac.gate.plugins	lang-russian	8.6
 uk.ac.gate.plugins	lang-welsh	8.6
+uk.ac.gate.plugins	language-detection-optimaize	1.0-SNAPSHOT
 uk.ac.gate.plugins	language-identification	8.5
 uk.ac.gate.plugins	learningframework	4.2
 uk.ac.gate.plugins	linguistic-simplifier	8.6
